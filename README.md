@@ -1,5 +1,3 @@
-🔎 Looking for a Python Internship 🔍
-
 🌟 Check out my new profile --> [EntropistA](https://github.com/EntropistA) 🌟
 
 👋 Hi, I’m A9C2. On this account you fill find my work on:
