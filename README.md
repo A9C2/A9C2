@@ -1,10 +1,15 @@
-New profile: https://github.com/EntropistA
+🔎 Looking for a Python Internship 🔍
 
-- 👋 Hi, I’m EntropistA
-- 👀 I’m interested in Python Data Science
-- 🌱 I’m currently learning BootstrapStudio
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/adam-wilczy%C5%84ski-0897b520b/)
+🌟 Check out my new profile --> [EntropistA](https://github.com/EntropistA) 🌟
 
+👋 Hi, I’m A9C2. On this account you fill find my work on:
+- Front-end
+- Web scraping
+- Text based games
+- Generating images
+- Algorithms
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adam-wilczynski)
 
 
 <!---
